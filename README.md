@@ -3,8 +3,7 @@ A data science project to analyze data from professional League of Legends match
 
 
 ## INTRODUCTION
-
-    League of Legends is an online game based on real-time strategies of 5 vs 5 teams. The game, as an e-sport (electronic sport), has a very large competitive scene around the world and it is growing more and more. Due to their level of competitiveness, teams around the world have analysts who are dedicated to understanding and finding new ways to win more matches. Each match itself lasts, on average, 30 to 35 minutes, and is generally divided into 3 stages, early, mid and late game, each being played in a way and with its importance for success in the match.
+League of Legends is an online game based on real-time strategies of 5 vs 5 teams. The game, as an e-sport (electronic sport), has a very large competitive scene around the world and it is growing more and more. Due to their level of competitiveness, teams around the world have analysts who are dedicated to understanding and finding new ways to win more matches. Each match itself lasts, on average, 30 to 35 minutes, and is generally divided into 3 stages, early, mid and late game, each being played in a way and with its importance for success in the match.
     The objective of this project is to go deeper into the beginning of the game, understand its impact and try, based on data from up to a certain point in the match, to predict the final result.
     An analysis of the data of the matches of the regular phase of the 2nd split of the CBLOL 2021 (Brazilian League of Legends Championship) was carried out to develop a model that predicts the results of the matches only with data from the first 10 minutes of the game.
 

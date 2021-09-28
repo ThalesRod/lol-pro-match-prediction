@@ -3,7 +3,7 @@ A data science project to analyze data from professional League of Legends match
 
 The main part of the analytics is in the [notebook]().
 
-Here's a little longer documentation of how the project was developed, but if you're in a hurry there's a short [abstract](https://github.com/ThalesRod/lol-pro-match-prediction#abstract) of how it was done.
+Here's a little longer [documentation](https://github.com/ThalesRod/lol-pro-match-prediction#introduction) of how the project was developed, but if you're in a hurry there's a short [abstract](https://github.com/ThalesRod/lol-pro-match-prediction#abstract) of how it was done.
 
 ## ABSTRACT
 The project consisted of 3 stages, the first was the collection of data from the wiki and game servers, as well as the cleaning and aggregation of these data. In the second stage, exploratory data analysis was performed, describing and summarizing the data set through statistics and identifying correlations. The third step consisted of training the classifiers with the processed data set and evaluating them. The results are presented in the [RESULTS section of the documentation](https://github.com/ThalesRod/lol-pro-match-prediction#results).

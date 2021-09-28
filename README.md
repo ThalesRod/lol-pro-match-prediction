@@ -26,7 +26,7 @@ In the data analysis, it was observed that the variables of slain dragons and de
 
 The results of the estimators' evaluations are shown in the chart below. For reasons of experiment reproducibility, the values were obtained using the value 29 as a random state seed parameter in the dataset division method. From these results, it is possible to observe that all 4 algorithms presented better results than the classifier Dummy.
 
-![chart model accuracy](./model_accuracy.png)
+![chart model accuracy](./model_accuracy.jpg)
 
 ## CONCLUSIONS AND FUTURE WORK
 Using the Linear SVC model it is possible to predict the result of the match at 10 minutes with 66.67% accuracy based on each team's gold values, kills, destroyed buildings and slain dragons.

@@ -1,6 +1,12 @@
 # Professional League of Legends matches prediction
 A data science project to analyze data from professional League of Legends matches and try to predict their outcome only with data from up to a certain point of the match.
 
+The main part of the analytics is in the [notebook]().
+
+Here's a little longer documentation of how the project was developed, but if you're in a hurry there's a short [abstract](https://github.com/ThalesRod/lol-pro-match-prediction#abstract) of how it was done.
+
+## ABSTRACT
+The project consisted of 3 stages, the first was the collection of data from the wiki and game servers, as well as the cleaning and aggregation of these data. In the second stage, exploratory data analysis was performed, describing and summarizing the data set through statistics and identifying correlations. The third step consisted of training the classifiers with the processed data set and evaluating them. The results are presented in the [RESULTS section of the documentation](https://github.com/ThalesRod/lol-pro-match-prediction#results).
 
 ## INTRODUCTION
 League of Legends is an online game based on real-time strategies of 5 vs 5 teams. The game, as an e-sport (electronic sport), has a very large competitive scene around the world and it is growing more and more. Due to their level of competitiveness, teams around the world have analysts who are dedicated to understanding and finding new ways to win more matches. Each match itself lasts, on average, 30 to 35 minutes, and is generally divided into 3 stages, early, mid and late game, each being played in a way and with its importance for success in the match.

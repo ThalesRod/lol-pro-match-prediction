@@ -1,4 +1,4 @@
-# Professional League of Legends matches prediction with Data Science and Machine Learning
+# Professional League of Legends matches prediction using Data Science and Machine Learning
 A data science and machine learning project to analyze data from professional League of Legends matches and try to predict their outcome only with data from up to a certain point of the match.
 
 The main part of the analytics is in the [notebook](https://github.com/ThalesRod/lol-pro-match-prediction/blob/main/CBLOL_data_analysis.ipynb).
